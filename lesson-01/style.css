@@ -1,0 +1,17 @@
+.text-center {
+  text-align: center;
+}
+.mt-5{
+  margin-top: 50px;
+}
+.m-auto {
+  margin: auto;
+}
+.btn {
+  color: white;
+  background-color: dodgerblue;
+  border: none;
+  padding: 7px;
+  border-radius: 4px;
+  font-size: 14px;
+}
